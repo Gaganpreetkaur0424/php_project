@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Tahoma, Arial, sans-serif;
+    background-color: #ffffff;
+    color: #000000;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    margin: 0px;
+}
+
+main {
+    display: block;
+    padding-left: 0em;
+    padding-right: 0em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    width: 100%;
+}
+
+.single-book-in-grid:hover {
+    background-color: rgb(209, 249, 250);
+}
